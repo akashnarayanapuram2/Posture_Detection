@@ -1,7 +1,6 @@
 import streamlit as st
 import cv2
 import mediapipe as mp
-import math
 import av
 from streamlit_webrtc import webrtc_streamer, VideoProcessorBase
 from collections import deque
